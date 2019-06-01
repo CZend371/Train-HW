@@ -1,0 +1,13 @@
+body {
+    background-color: #ded9ff; 
+    background-image: radial-gradient(ellipse at center, rgba(0,0,0,0) 50%, rgba(0,0,0,0.8) 100%), 
+    url('https://www.csstextures.com/elegant-hatch-T28.png'); 
+    background-repeat: repeat;
+}
+.card {
+    background-color: #ded9ff; 
+
+}
+#add-train {
+    background-color: #3069f1;
+}
